@@ -15,6 +15,7 @@ I'm specializing in Cybersecurity, mainly in web vulnerabilities but I also have
 
 - Feel free to contact me for anything cool you've found or if you'd like me to participate in a CTF!
   - 📫 ak13a@tutamail.com
+  - 💬 (Discord) ak13a
 
 <!--
 **Akira-13/Akira-13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
